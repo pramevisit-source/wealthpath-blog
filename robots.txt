@@ -1,0 +1,11 @@
+# WealthPath - robots.txt
+# https://wealthpath.com/robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://wealthpath.com/sitemap.xml
+
+# Crawl-delay (optional, for polite crawling)
+Crawl-delay: 1
